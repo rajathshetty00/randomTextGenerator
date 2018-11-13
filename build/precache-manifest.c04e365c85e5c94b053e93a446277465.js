@@ -1,4 +1,4 @@
-self.__precacheManifest = 
+self.__precacheManifest = [
   {
     "revision": "1c61881c1638133ca5ed",
     "url": "/static/css/main.883dc9d3.chunk.css"
